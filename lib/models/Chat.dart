@@ -5,7 +5,7 @@ class Chat {
   final bool isActive;
 
   Chat({
-  this.name = '',
+    this.name = '',
     this.lastMessage = '',
     this.image = '',
     this.time = '',
